@@ -1,4 +1,4 @@
-![Logo](PortalGL.png)
+![Logo](PortalGl.png)
 
 
 # PortalGL - PFA
